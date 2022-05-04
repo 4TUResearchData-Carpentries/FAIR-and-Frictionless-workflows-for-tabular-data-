@@ -27,7 +27,7 @@ The team organizing and running the workshop was:
 - Eirini Zormpa - Trainer on RDM and Open Science at TU Delft library & 4TU.ResearchData
 - Lilly Winfree – Product Manager, Frictionless Data project at Open Knowledge Foundation
 - Nicolas Dintzner – TU Delft Data Steward of the Faculty of Technology, Policy & Management 
-- Katerina Drakoulaki – Postdoctoral researcher, Psycholinguistics and Neurolinguistics lab, National and Kapodistrian University of Athens & Frictionless Data for     Reproducible Research Fellow at Open Knowledge Foundation
+- Katerina Drakoulaki – Postdoctoral researcher, Psycholinguistics and Neurolinguistics lab, National and Kapodistrian University of Athens & Frictionless Data for     Reproducible Research Fellow
 - Aleksandra Wilczynska – Data Manager at TU Delft Library & the Digital Competence Center
 - Evgeny Karev – Senior Developer at Open Knowledge Foundation
 - Sara Petti – Project Manager at Open Knowledge Foundation
