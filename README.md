@@ -10,15 +10,15 @@ The programme of the workshop was as follows:
 - 14:25 – 14:40 – Break
 - 14:40 – 15:50 – Frictionless data framework
 - 15:50 – 16: 00 – Break
-- 16:00 – 17:00 – Frictionless Describe and Extract Python functions 
+- 16:00 – 17:00 – Frictionless Describe and Extract Python functions ([Notebook](https://github.com/frictionlessdata/frictionless-py/blob/main/docs/tutorials/notebooks/frictionless-RDM-workflows.ipynb))
 
 ## Day2
 - 12:30 – 13:00 – Installation problems/questions 
 - 13:00 – 13:10 – Welcome 
 - 13:10 – 13:25 – Brief recap 
-- 13:25 – 14:30 – Validate and Transform functions and Data package 
+- 13:25 – 14:30 – Validate and Transform functions and Data package ([Notebook](https://github.com/frictionlessdata/frictionless-py/blob/main/docs/tutorials/notebooks/frictionless-RDM-workflows.ipynb))
 - 14:30 – 14:45 – Break
-- 14:45 – 16:15 – Validate and Transform functions and Data package 
+- 14:45 – 16:15 – Validate and Transform functions and Data package ([Notebook](https://github.com/frictionlessdata/frictionless-py/blob/main/docs/tutorials/notebooks/frictionless-RDM-workflows.ipynb))
 - 16:15 – 16:25 – Break
 - 16:25 – 16:50 – Data publication & 4TU.Researchdata
 - 16:50 – 17:00 – Wrap up & closing 
