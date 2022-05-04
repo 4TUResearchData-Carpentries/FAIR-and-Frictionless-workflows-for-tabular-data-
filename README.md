@@ -6,7 +6,7 @@ The programme of the workshop was as follows:
 ## Day 1
 - 12:30 – 13:00 – Installation problems/questions 
 - 13:00 – 13:10 – Welcome 
-- 13:10 – 14:25 – FAIR/Reproducible research and data organization
+- 13:10 – 14:25 – FAIR/Reproducible research and data organization ([Repository](https://github.com/4TUResearchData-Carpentries/frictionless-data-workshop)) - ([Slides](https://4turesearchdata-carpentries.github.io/frictionless-data-workshop/data-organisation.html#1))
 - 14:25 – 14:40 – Break
 - 14:40 – 15:50 – Frictionless data framework
 - 15:50 – 16: 00 – Break
