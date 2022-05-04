@@ -32,3 +32,13 @@ The team organizing and running the workshop was:
 - Evgeny Karev – Senior Developer at Open Knowledge Foundation
 - Sara Petti – Project Manager at Open Knowledge Foundation
 - Paula Martinez Lavanchy – Research Data Officer at TU Delft Library & 4TU.ResearchData
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
+
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
